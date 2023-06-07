@@ -1,0 +1,5 @@
+vpc_cidr = "172.16.0.0/16"
+private_subnet_cidr = "172.16.2.0/24"
+public_subnet_cidr = "172.16.1.0/24"
+region = "us-east-1"
+key = "mykey"
